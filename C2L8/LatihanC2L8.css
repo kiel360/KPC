@@ -1,0 +1,10 @@
+body {
+    border: 3px solid black;
+    padding-left: 15em;
+    padding-right: 15em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+h1 {
+    text-align: center;
+}

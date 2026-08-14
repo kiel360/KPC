@@ -1,0 +1,16 @@
+.isi {
+    display: block;
+}
+body {
+    border: 2px solid black;
+    padding: 1em;
+}
+p {
+    text-align: justify;
+}
+img {
+    float: left;
+}
+h1 {
+    text-align: center;
+}

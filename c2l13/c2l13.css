@@ -1,0 +1,21 @@
+#android,#windows,#ios,#macos {
+    display: inline-block;
+}
+body {
+    border: 2px black solid;
+    padding: 3em;
+}
+.and:hover {
+    width: 400px;
+    height: 225px;
+}
+.win:hover {
+    border: 3px blue dotted;
+}
+.win:active {
+    border: 3px red dotted;
+}
+.ios:hover {
+    width: 100px;
+    height: 45px;
+}

@@ -1,0 +1,36 @@
+.span1 {
+color: red;
+font-weight: bold;
+}
+#ham {
+    color: red;
+}
+#coolhamster {
+    line-height: 1.5;
+    display: inline;
+}
+body {
+    border: solid black 2px;
+    padding: 3em;
+    margin: 3em;
+}
+#yayaya {
+    width: 100%;
+}
+#hamstertext {
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+}
+#hamsterpic {
+    display: inline-block;
+    width: 600px;
+}
+
+
+
+
+
+ 

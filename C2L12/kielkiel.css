@@ -1,0 +1,57 @@
+a.daftar:hover {
+    font-size: 2em;
+    color: red
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+body {
+    border: 2px solid black;
+    padding: 5em;
+}
+#javascript a:active {
+    border: 2px dashed red;
+}
+#javascript a:visited {
+    border: 2px dashed grey;
+    color: grey;
+}
+#javascript a:hover {
+    font-style: italic;
+}
+#java a:active {
+    border: 2px dashed red;
+}
+#java a:visited {
+    border: 2px dashed grey;
+    color: grey;
+}
+#java a:hover {
+    font-style: italic;
+}
+#python a:active {
+    border: 2px dashed red;
+}
+#python a:visited {
+    border: 2px dashed grey;
+    color: grey;
+}
+#python a:hover {
+    font-style: italic;
+}
+#javascript {
+    text-align: center;
+}
+#python {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+#javascript {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+#java {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
