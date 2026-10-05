@@ -4,10 +4,47 @@
      padding: 20px;
      margin-left: 30em;
      margin-right: 30em;
+     margin-bottom: 5em;
      text-align: center;
 }
 .box {
-    border: 1px solid lightgray;
+    border: 1px solid rgb(234, 230, 230);
     margin: 20px;
     padding: 10px;
+}
+#tencent {
+    border: 2px solid rgb(81, 79, 79);
+     background-color: #a8a5a5;
+     padding: 20px;
+     margin-left: 30em;
+     margin-right: 30em;
+     margin-bottom: 5em;
+     text-align: center;
+}
+#nintendo {
+    border: 2px solid rgb(81, 79, 79);
+     background-color: #a8a5a5;
+     padding: 20px;
+     margin-left: 30em;
+     margin-right: 30em;
+     margin-bottom: 5em;
+     text-align: center;
+}
+#microsoft {
+    border: 2px solid rgb(81, 79, 79);
+     background-color: #a8a5a5;
+     padding: 20px;
+     margin-left: 30em;
+     margin-right: 30em;
+     margin-bottom: 5em;
+     text-align: center;
+}
+#activisionblizzard {
+    border: 2px solid rgb(81, 79, 79);
+     background-color: #a8a5a5;
+     padding: 20px;
+     margin-left: 30em;
+     margin-right: 30em;
+     margin-bottom: 5em;
+     text-align: center;
 }
